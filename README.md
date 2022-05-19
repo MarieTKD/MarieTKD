@@ -1,16 +1,20 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="100"/>
 
-<!--
-**MarieTKD/MarieTKD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                                                                   
+<section id="badges">
+  <a href="https://www.linkedin.com/in/marie-sallaberry/">
+  <img src="https://img.shields.io/badge/LinkedIn-lightseagreen?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://mariesallaberry.hashnode.dev/">
+  <img src="https://img.shields.io/badge/Twitter-steelblue?style=for-the-badge&logo=youtube&logoColor=black" alt="Twitter Badge"/>
+  </a>
+  <a href="https://twitter.com/coding_Marie">
+  <img src="https://img.shields.io/badge/Hashnode-lavender?style=for-the-badge&logo=twitter&logoColor=black" alt="Hashnode Badge"/>
+  </a>
+</section>
+<h1>
+  hey there!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
