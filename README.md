@@ -9,11 +9,8 @@
   <a href="https://www.linkedin.com/in/marie-sallaberry/">
   <img src="https://img.shields.io/badge/LinkedIn-lightseagreen?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://mariesallaberry.hashnode.dev/">
-  <img src="https://img.shields.io/badge/Hashnode-steelblue?style=for-the-badge" alt="Hashnode Badge"/>
-  </a>
   <a href="https://twitter.com/coding_Marie">
-  <img src="https://img.shields.io/badge/Twitter-lightseagreen?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-steelblue?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter Badge"/>
   </a>
   <a href="https://github.com/sponsors/MarieTKD">
   <img src="https://img.shields.io/badge/💗 Sponsor-lightpink?style=for-the-badge" alt="Sponsor me Badge"/>
