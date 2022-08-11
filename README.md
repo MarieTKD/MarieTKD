@@ -25,9 +25,9 @@
 ---
 
 ### :woman_technologist: About Me:
-I'm a web developer from the United States.
-- :telescope: I'm using the MERN stack. I love collaborating on open source projects.
-- :seedling: I'm working on writing technical content.
+I'm a web developer/data scientist from the United States.
+- :telescope: I'm learning data science/ML/Deep Learning.
+- :seedling: I'm interested in natural medicine.
 - :martial_arts_uniform: I'm a Taekwondo Black Belt and Instructor
 - :mailbox: How to reach me: marino.sallaberry@gmail.com
 
